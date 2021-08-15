@@ -1,6 +1,6 @@
 ## Hi
 
-This is my very first web page. <a href="https://github.com/alichamb/hello-world/edit/main/docs/index.md</a>
+This is my very first web page. <a>https://github.com/alichamb/hello-world/edit/main/docs/index.md</a>
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
